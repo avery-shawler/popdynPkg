@@ -1,5 +1,5 @@
 
-#' Simulation of predator and prey dynamics
+#' Simulation of predator and prey dynamics #!
 #'
 #' @param x this is the hare population size
 #' @param y this is the lynx population size
